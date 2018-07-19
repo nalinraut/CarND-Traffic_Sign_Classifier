@@ -111,50 +111,50 @@ The probabilities for individual labels for each image are as follows :
 
 | Labels		        |     Probability	| 
 |:-----------------------------:|:---------------------:| 
-| Keep right    		| 1.00 %  		| 
-| Speed limit (50km/h) 		| 0.00 %                |	
-| Yield				| 0.00 %  		|
-| Speed limit (30km/h)	        | 0.00 %		|
-| Priority road			| 0.00 %	      	|
+| Keep right    		| 1.00  		| 
+| Speed limit (50km/h) 		| 0.00                |	
+| Yield				| 0.00   		|
+| Speed limit (30km/h)	        | 0.00 		|
+| Priority road			| 0.00 	      	|
 
 2. Image 2 - Stop
 
 | Labels		        |     Probability	| 
 |:-----------------------------:|:---------------------:| 
-| Stop	        | 1.00 %		|
-| Go straight or right		| 0.00 %	      	|
-| Road work	        | 0.00 %		|
-| Turn right ahead	        | 0.00 %		|
-| Priority road	        | 0.00 %		|
+| Stop	        | 1.00 		|
+| Go straight or right		| 0.00 	      	|
+| Road work	        | 0.00 		|
+| Turn right ahead	        | 0.00 		|
+| Priority road	        | 0.00 		|
 
 3. Image 3 - Speed limit (30km/h)
 
 | Labels		        |     Probability	| 
 |:-----------------------------:|:---------------------:| 
-| Speed limit (30km/h)	        | 1.00 %		|
+| Speed limit (30km/h)	        | 1.00 		|
 | Road work		| 0.00 %	      	|
-| Speed limit (20km/h)	        | 0.00 %		|
-| Speed limit (50km/h)	        | 0.00 %		|
-| Speed limit (80km/h)	        | 0.00 %		|
+| Speed limit (20km/h)	        | 0.00 		|
+| Speed limit (50km/h)	        | 0.00 		|
+| Speed limit (80km/h)	        | 0.00 		|
 
 4. Image 4 - Pedestrians
 
 | Labels		        |     Probability	| 
 |:-----------------------------:|:---------------------:| 
-| General caution	        | 0.55 %		|
-| Roundabout mandatory		| 0.45 %	      	|
-| Pedestrians	        | 0.00 %		|
-| End of speed limit (80km/h)	        | 0.00 %		|
-| Priority road	        | 0.00 %		|
+| General caution	        | 0.55 		|
+| Roundabout mandatory		| 0.45 	      	|
+| Pedestrians	        | 0.00 		|
+| End of speed limit (80km/h)	        | 0.00 		|
+| Priority road	        | 0.00 		|
 
 4. Image 5 - No entry
 
 | Labels		        |     Probability	| 
 |:-----------------------------:|:---------------------:| 
-| No entry	        | 1.00 %		|
+| No entry	        | 1.00 		|
 | Stop 		| 0.00 %	      	|
-| Turn right ahead	        | 0.00 %		|
-| Turn left ahead	        | 0.00 %		|
-| No passing	        | 0.00 %		|
+| Turn right ahead	        | 0.00 		|
+| Turn left ahead	        | 0.00 		|
+| No passing	        | 0.00 		|
 
 
