@@ -94,6 +94,8 @@ I picked the following 5 unknown images for testing.
 
 <img src="web.png" width="480" alt="Combined Image" />
 
+The classifier is able to correctly classify 4 out of 5 images yielding an acuracy odf 80.00%. The classifier incoorectly classifies the 4th image as 'General caution' instead of 'Pedestrians'. If we notice individual probabilties for the 4th image, the probabilities of the image being 'General caution' and 'Roundabout' are close. Although, the image is taken in perfect lighting conditions, the classifier is confused between a an exclaimaton '!' in 'General caution' and the stick figure of a pedestrian.   
+
 The prediction for the images are tabulated as follows :
 
 | Image			        |     Prediction	| 
